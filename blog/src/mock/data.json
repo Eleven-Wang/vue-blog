@@ -1,0 +1,112 @@
+{
+	"goods": [
+		{
+			"name": "折扣",
+			"icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+			"foods": [
+				{
+					"name": "南瓜粥",
+					"icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				}
+			]
+		},
+		{
+			"name": "甜粥",
+			"icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+			"foods": [
+				{
+					"name": "红豆薏米粥",
+					"icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				},
+				{
+					"name": "南瓜粥",
+					"icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				}
+			]
+		},
+		{
+			"name": "小吃",
+			"icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+			"foods": [
+				{
+					"name": "红豆薏米粥",
+					"icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				},
+				{
+					"name": "南瓜粥",
+					"icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 10,
+					"oldPrice": 12,
+					"sellCount": 200,
+					"rating": 98,
+					"description": "甜甜的粥"
+				},
+				{
+					"name": "红枣山药粥",
+					"icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+					"price": 11,
+					"oldPrice": 12,
+					"sellCount": 220,
+					"rating": 94,
+					"description": "甜粥"
+				}
+			]
+		}
+	]
+}
